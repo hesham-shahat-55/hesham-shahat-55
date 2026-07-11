@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Hesham Shahat 
 
-<!--
-**hesham-shahat-55/hesham-shahat-55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Student | Django Backend Developer | Flutter Developer
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence student passionate about building modern web and mobile applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My primary focus is Backend Development with Django and Python while building cross-platform mobile applications using Flutter. I'm also exploring Artificial Intelligence, Machine Learning, and Software Engineering.
+
+---
+
+## About Me
+
+* Artificial Intelligence Student
+* Backend Developer with Django & Python
+* Flutter Developer
+* Interested in Artificial Intelligence & Machine Learning
+* Currently learning Django REST Framework (DRF), PostgreSQL, Docker, and Cybersecurity
+* Passionate about building scalable, real-world applications
+
+---
+
+## Tech Stack
+
+### Languages
+
+* Python
+* Dart
+* SQL
+* HTML
+* CSS
+
+### Backend
+
+* Django
+* Django ORM
+* Django REST Framework *(Learning)*
+
+### Mobile
+
+* Flutter
+
+### Database
+
+* SQLite
+* PostgreSQL *(Learning)*
+
+### AI & Data
+
+* NumPy
+* Pandas
+* Matplotlib
+* Machine Learning Fundamentals
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Android Studio
+
+---
+
+## Current Goals
+
+* Build production-ready Django applications
+* Master Django REST Framework
+* Develop Flutter applications connected to Django APIs
+* Learn Docker & Deployment
+* Strengthen AI and Machine Learning skills
+
+---
+
+> *"Code. Learn. Build. Improve. Repeat."* 🚀
