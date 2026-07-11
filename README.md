@@ -70,4 +70,4 @@ My primary focus is Backend Development with Django and Python while building cr
 
 ---
 
-> *"Code. Learn. Build. Improve. Repeat."* 🚀
+> *"Code. Learn. Build. Improve. Repeat."* 
