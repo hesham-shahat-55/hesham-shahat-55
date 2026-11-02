@@ -1,73 +1,97 @@
-# Hi, I'm Hesham Shahat 
+# Hi, I'm Hesham Shahat 👋
 
-### AI Student | Django Backend Developer | Flutter Developer
+### AI Student | .NET Backend Developer | AI & Machine Learning Enthusiast
 
-I'm an Artificial Intelligence student passionate about building modern web and mobile applications that solve real-world problems.
+I'm an Artificial Intelligence student passionate about building software solutions and exploring how AI can solve real-world problems.
 
-My primary focus is Backend Development with Django and Python while building cross-platform mobile applications using Flutter. I'm also exploring Artificial Intelligence, Machine Learning, and Software Engineering.
+My current focus is **Backend Development using C# and .NET**, alongside developing my knowledge and practical skills in Artificial Intelligence and Machine Learning.
+
+I'm continuously learning, building projects, and improving my software engineering skills.
 
 ---
 
 ## About Me
 
-* Artificial Intelligence Student
-* Backend Developer with Django & Python
-* Flutter Developer
-* Interested in Artificial Intelligence & Machine Learning
-* Currently learning Django REST Framework (DRF), PostgreSQL, Docker, and Cybersecurity
-* Passionate about building scalable, real-world applications
+- Artificial Intelligence Student at Sphinx University.
+- Focused on Backend Development with C# and .NET.
+- Interested in Artificial Intelligence and Machine Learning.
+- Practicing Data Analysis and Data Visualization.
+- Currently learning ASP.NET Core Web API, SQL Server, and Entity Framework Core.
+- Exploring Deep Learning with PyTorch.
+- Interested in building scalable applications and AI-powered solutions.
 
 ---
 
 ## Tech Stack
 
-### Languages
+### Programming Languages
+- C#
+- Python
+- Dart
+- SQL
 
-* Python
-* Dart
-* SQL
-* HTML
-* CSS
+### Backend Development
+- .NET / C#
+- ASP.NET Core Web API *(Learning)*
+- Entity Framework Core *(Learning)*
+- LINQ
+- OOP
+- REST APIs
 
-### Backend
+### AI & Machine Learning
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- PyTorch *(Learning)*
 
-* Django
-* Django ORM
-* Django REST Framework *(Learning)*
+### Mobile Development
+- Flutter
 
-### Mobile
-
-* Flutter
-
-### Database
-
-* SQLite
-* PostgreSQL *(Learning)*
-
-### AI & Data
-
-* NumPy
-* Pandas
-* Matplotlib
-* Machine Learning Fundamentals
+### Databases
+- SQL Server *(Learning)*
+- SQLite
+- PostgreSQL
 
 ### Tools
+- Git & GitHub
+- Visual Studio
+- VS Code
+- Jupyter Notebook
+- Android Studio
 
-* Git
-* GitHub
-* VS Code
-* Android Studio
+---
+
+## Projects
+
+### E-Commerce Sales Analysis
+- Data cleaning and preprocessing.
+- Exploratory Data Analysis (EDA).
+- Business metrics and sales performance analysis.
+- Data visualization using Matplotlib and Seaborn.
+
+---
+
+## Currently Learning
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+- Deep Learning with PyTorch
+- AI integration with backend applications
+- Docker and deployment
 
 ---
 
 ## Current Goals
 
-* Build production-ready Django applications
-* Master Django REST Framework
-* Develop Flutter applications connected to Django APIs
-* Learn Docker & Deployment
-* Strengthen AI and Machine Learning skills
+- Build real-world applications using .NET.
+- Develop strong backend engineering skills.
+- Strengthen my AI and Machine Learning knowledge.
+- Combine AI capabilities with backend systems.
+- Build practical projects and contribute to collaborative teams.
 
 ---
 
-> *"Code. Learn. Build. Improve. Repeat."* 
+> "Code. Learn. Build. Improve. Repeat."
