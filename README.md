@@ -63,15 +63,6 @@ I'm continuously learning, building projects, and improving my software engineer
 
 ---
 
-## Projects
-
-### E-Commerce Sales Analysis
-- Data cleaning and preprocessing.
-- Exploratory Data Analysis (EDA).
-- Business metrics and sales performance analysis.
-- Data visualization using Matplotlib and Seaborn.
-
----
 
 ## Currently Learning
 
